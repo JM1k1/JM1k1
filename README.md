@@ -18,7 +18,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Kali-557C94.svg?logo=KaliLinux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6.svg?logo=Windows&logoColor=black)
 
-### 📝Editors
+### 📝 Editors
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white)
