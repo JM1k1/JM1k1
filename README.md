@@ -83,4 +83,4 @@ print(me)
 ## Contact
 - [JMiki](https://vk.com/JMiki) on VKontakte
 - [@j.m1k1](https://www.instagram.com/j.m1k1/) on Instagram
-- [JMiki#3619](./) on Discord
+- [jmiki](./) on Discord
