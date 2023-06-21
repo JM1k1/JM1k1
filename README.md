@@ -81,6 +81,6 @@ print(me)
 
 
 ## Contact
-- <b>VK:</b> [JMiki](https://vk.com/JMiki)
-- <b>Discord:</b> [jmiki](https://discordapp.com/users/235076062109892608)
+- <b>VK:</b> [@jmiki](https://vk.com/JMiki)
+- <b>Discord:</b> [@jmiki](https://discordapp.com/users/235076062109892608)
 <!-- - <b>Instagram:</b> [j.m1k1](instagram.com/j.m1k1/) -->
